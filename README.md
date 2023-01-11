@@ -1,16 +1,43 @@
-### Hi there 👋
+### Hi there  , this is Zahra Shafiei :)👋
+<p>I am a junior web developer, motivated and constantly improving my skills. and I am currently working as freelancer</p>
 
-<!--
-**zahra-shafiei4/zahra-shafiei4** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+#### PERSONAL INFORMATION
+  <p> Qom </br>
+      1998/05/03 </p>
+      
+#### 🌱 SKILLS
+<p>HTML/CSS </br>
+   Bootstrap </br>
+   Tailwind </br>
+   JavaScript </br>
+   Vue js </br>
+   PHP </br>
+   MySQL </br>
+   SQL Server </br>
+   Web scraping & Web crawling </br>
+   Python </br>
+   Git / GitHub </br>
+   Data mining </br>
+   WordPress </p>   
+   
+  #### 🔭 WORK EXPERIENCE
+  * 
+    crawl khamenei.ir </br>
+      I scraped the information with Python language and Selenium  library
 
-Here are some ideas to get you started:
+  * 
+    crawl kurdsale.com </br>
+      I scraped the information with Python language and Selenium  library
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+  * 
+    develope front Site </br>  
+      I implemented it with the tailwind framework
+
+
+#### EDUCATION
+  * 2018 – 2021
+    Bachelor's Degree, Qom University, Qom 
+    
+ 📫 [LinkedIn](linkedin: https://www.linkedin.com/in/zahra-shafiei/)   
+      
+      
