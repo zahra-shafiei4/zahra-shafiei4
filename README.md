@@ -10,19 +10,20 @@
    Bootstrap </br>
    Tailwind </br>
    JavaScript </br>
-   Vue js </br>
    PHP </br>
    MySQL </br>
    SQL Server </br>
    Web scraping & Web crawling </br>
    Python </br>
-   Git / GitHub </br>
-   Data mining </br>
-   WordPress </p>   
+   Git / GitHub </br>   
    
   #### 🔭 WORK EXPERIENCE
   * 
     crawl khamenei.ir </br>
+      I scraped the information with Python language and BeautifulSoup  library
+    
+ * 
+    crawl هmam-khomeini.ir</br>
       I scraped the information with Python language and Selenium  library
 
   * 
